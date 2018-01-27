@@ -1,0 +1,5 @@
+Login As Admin http://localhost/client/client33/meadmin/web/Home.php
+Login As Client http://localhost/client/client33/meuser/web/Home.php
+
+-Thank You-
+
